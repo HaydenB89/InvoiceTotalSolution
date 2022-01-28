@@ -18,7 +18,7 @@ namespace InvoiceTotal {
         decimal totalOfInvoices = 0m;
         decimal invoiceAverage = 0m;
 
-
+        //cha
         private void Form1_Load(object sender, EventArgs e) {
 
         }
